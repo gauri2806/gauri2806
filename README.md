@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://portfolio.gaurikatti.repl.co/#home)
+
 
 <h1 align="center">Hi 👋, I'm Gauri Katti</h1>
 <h3 align="center">Motivated to advance and expand my skillset through targeted mentorship and challenging projects.</h3>
