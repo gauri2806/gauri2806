@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauri2806&label=Profile%20views&color=0e75b6&style=flat" alt="gauri2806" /> </p>
 
-- 🌱 I’m currently learning **ROS, Gazebo, Database Management**
+- 🌱 I'm a MERN Stack Developer
 
-- 👨‍💻 All of my projects are available at [https://portfolio.gaurikatti.repl.co/#home](https://portfolio.gaurikatti.repl.co/#home)
+- 👨‍💻 Checkout my portfolio- [https://gauri-katti-portfolio.vercel.app/](https://gauri-katti-portfolio.vercel.app/)
 
-- 💬 Ask me about **Web development, Python**
+- 💬 Ask me about **Web development**
 
-- 📫 How to reach me **gaurikatti2806@gmail.com**
+- 📫 Contact me at **gaurikatti2806@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
