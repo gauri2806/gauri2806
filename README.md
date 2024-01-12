@@ -15,7 +15,7 @@ MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ```javascript
 const gauri = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Bootstrap, Tailwind, Python, CPP, SQL],
+  code: [Javascript, HTML, CSS, Bootstrap, Tailwind,Styled Components, Python, CPP, SQL],
   tools: [GitHub, VSCode, GIT, MySQL, Figma],
   technologies: [React, Redux, Node, OpenCV],
   techCommunities: {
