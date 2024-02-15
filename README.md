@@ -15,8 +15,8 @@ Intern at Connecticus Technologies <img src="https://media.giphy.com/media/WUlpl
 ```javascript
 const gauri = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Bootstrap, Tailwind,Styled Components, Python, CPP, SQL],
-  tools: [GitHub, VSCode, GIT, MySQL, Figma],
+  code: [Java, Python, CPP, SQL, Javascript, HTML, CSS, Bootstrap, Tailwind],
+  tools: [GitHub, VSCode, GIT, MySQL, Latex, Figma],
   technologies: [React, Redux, Node, OpenCV],
   techCommunities: {
                         RNXG_Club: "Core Member",
