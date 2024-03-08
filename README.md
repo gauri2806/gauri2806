@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=200&section=header&text=WEB%20DEVELOPER&fontSize=30)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&descAlignY=50)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Gauri+Katti%F0%9F%91%8B)](https://git.io/typing-svg)
 
 Final Year Computer Science Engineering Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="16">
@@ -30,8 +29,8 @@ const gauri = {
  status: "Working as a Java FullStack intern"
 }
 ```
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gauri2806&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)](https://github.com/gauri2806/github-readme-stats)
-[![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=gauri2806&theme=transparent&type=png&mode=daily&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/gauri2806/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gauri2806&show_icons=true&card_width=400&hide_border=true&theme=transparent&rank_icon=github)](https://github.com/gauri2806/github-readme-stats)
+[![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=gauri2806&theme=transparent&card_width=400&type=png&mode=daily&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/gauri2806/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauri2806&layout=donut-vertical&hide_border=true&show_icons=true&theme=transparent)](https://github.com/gauri2806/github-readme-stats)
 
 
