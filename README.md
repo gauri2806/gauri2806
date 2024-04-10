@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&descAlignY=50)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Gauri+Katti%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=gradient&font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Gauri+Katti%F0%9F%91%8B)](https://git.io/typing-svg)
+
 
 Final Year Computer Science Engineering Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="16">
 </br>
@@ -19,7 +20,7 @@ const gauri = {
   pronouns: "she" | "her",
   code: [Java, Python, CPP, SQL, Javascript, HTML, CSS, Bootstrap, Tailwind],
   tools: [GitHub, VSCode, GIT, Postman, Latex, Figma],
-  databases: [MySQL, SQLite]
+  databases: [MySQL, SQLite],
   technologies: [React, Redux, Node, OpenCV, Spring, SpringBoot],
   techCommunities: {
                         RNXG_Club: "Core Member",
