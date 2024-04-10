@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&descAlignY=50)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=gradient&font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Gauri+Katti%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=gradient&font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Gauri+Katti%F0%9F%91%8B)]()
 
 
 Final Year Computer Science Engineering Student <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="16">
